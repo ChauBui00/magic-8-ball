@@ -1,0 +1,1 @@
+document.getElementById("img").addEventListener("click", random);
