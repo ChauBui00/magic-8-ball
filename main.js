@@ -1,9 +1,12 @@
-document.getElementById("img").addEventListener("click", random);
-let outputEl = get.getElementById("output").value;
-let input = getElementById("input").value;
+
+let imgEl = document.getElementById("img");
+let outputEl = get.getElementById("out-put");
+let inputEl = getElementById("input");
+
+imgEl.addEventListener("click", random);
 
 function random(){
-    if (input=== hey) {
+    if (inputEl === hey) {
         outputEl.innerHTML = "Pleae ask question!";
     } else {
         outputEl.innerHTML = "Have a nice day!";
