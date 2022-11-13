@@ -1,0 +1,9 @@
+img{
+    width: 400px;
+    length: 400px;
+}
+
+html {
+background: url(img/wp2062903.jpg) no-repeat center fixed;
+background-size: cover;
+}
