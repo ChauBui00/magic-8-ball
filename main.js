@@ -25,11 +25,11 @@ if (randNum < 0.1) {
 }else if (randNum < 0.7){
     outputEl.innerHTML ="NO WAY."
 }else if (randNum < 0.8){
-    outputEl.innerHTML ="You drop your cap."
+    outputEl.innerHTML ="Slayyyy Bestie!!!!!"
 }else if (randNum < 0.9){
     outputEl.innerHTML ="Good one!"
 }
 else {
-    outputEl.innerHTML = "Slayyyy Bestie!!!!!";
+    outputEl.innerHTML = "Enter a question";
 }
 }
